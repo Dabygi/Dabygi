@@ -1,4 +1,4 @@
-<img src="https://github.com/Dabygi/Profile/blob/main/python.jpeg?raw=true">
+<img src="https://github.com/Dabygi/Dabygi/blob/main/python.jpeg">
 
 ### Hi all, I'm Artem Gluhotorenko 👋
 
